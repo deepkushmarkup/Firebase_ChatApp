@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "172259733368",
+    "project_id": "chatappflutter-fbcee",
+    "storage_bucket": "chatappflutter-fbcee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172259733368:android:e4b5211b2ff513aaf1e28d",
+        "android_client_info": {
+          "package_name": "com.harshRajpurohit.we_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172259733368-kdgsh18hjr2mn52u2u0aqlupg2romct0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshRajpurohit.we_chat",
+            "certificate_hash": "e363c2369a43b0668e053fa94e993ec8dcce69ed"
+          }
+        },
+        {
+          "client_id": "172259733368-b20kpn3nvcahckqagoqk8imu0gu1o2jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2CoKdov0l4b9q_9eim8GjU8iCWDdYOSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172259733368-b20kpn3nvcahckqagoqk8imu0gu1o2jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
